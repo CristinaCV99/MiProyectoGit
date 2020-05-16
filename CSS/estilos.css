@@ -1,0 +1,23 @@
+header{
+    width:800px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: chartreuse;
+    border: 1px solid green;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+button{
+    padding: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+button:hover{
+    background-color: black;
+    color: blanchedalmond;
+}
